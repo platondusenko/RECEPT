@@ -60,6 +60,8 @@ body {
   cursor: pointer;
   transition: all 0.2s ease;
   box-shadow: 0 2px 4px rgba(79, 70, 229, 0.2);
+    width: 100%;
+    text-align: center;
 }
 
 .btn-start:hover {
@@ -88,8 +90,5 @@ body {
     gap: 12px;
   }
   
-  .btn-start {
-    width: 100%;
-    text-align: center;
-  }
+ 
 }
